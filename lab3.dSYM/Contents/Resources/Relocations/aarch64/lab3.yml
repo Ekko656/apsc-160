@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ekam/code/apsc 160/lab3'
+relocations:     []
+...
